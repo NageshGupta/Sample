@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProcessApplication xmlns="http://www.fico.com">
+	<Input_ApplicationData>
+		<BranchNumber>719</BranchNumber>
+		<VersionNumber>2</VersionNumber>
+		<InputSource>0</InputSource>
+		<DFEStatus>Pending</DFEStatus>
+		<DealerComments>Correct DOB now entered.</DealerComments>
+		<RecordTransmissionType>AR</RecordTransmissionType>
+		<CountryCode>GB</CountryCode>
+		<DealerReferenceNumber>12872876</DealerReferenceNumber>
+		<UpdateApplicationNumber>UK1707AI0742/1</UpdateApplicationNumber>
+		<Dealer>
+			<DealerName>Toomey Citroen</DealerName>
+			<DealerNumber>2184</DealerNumber>
+		</Dealer>
+		<Applicants>
+			<WORCWS_GMFApplicant_DataRecord>
+				<Gender>Female</Gender>
+				<ResidentialStatus>Owner</ResidentialStatus>
+				<FutureObligations>No</FutureObligations>
+				<UseOfCreditInfo>True</UseOfCreditInfo>
+				<PartyType>Main Applicant</PartyType>
+				<ExistingCustomer>No</ExistingCustomer>
+				<GuaranteeAvailable>No</GuaranteeAvailable>
+				<Address>
+					<WS_GMFApplicantAddress_Data>
+						<AddressType>Current</AddressType>
+						<YearsAtAddress>6</YearsAtAddress>
+						<MonthsAtAddress>11</MonthsAtAddress>
+						<AddressLocation>
+							<HouseNumber>34</HouseNumber>
+							<HouseName />
+							<FlatNumber />
+							<StreetAddress>Raphaels</StreetAddress>
+							<PostCode>SS15 5EA</PostCode>
+							<Locality />
+							<Town>Basildon</Town>
+						</AddressLocation>
+					</WS_GMFApplicantAddress_Data>
+				</Address>
+				<BankDetail>
+					<AccountHolder>S Wright</AccountHolder>
+					<BankTimeYears>0</BankTimeYears>
+					<BankTimeMonths>0</BankTimeMonths>
+					<PaymentMethod>Direct Debit</PaymentMethod>
+					<AccountNumber>00453132</AccountNumber>
+					<SortCode>111060</SortCode>
+					<BankName>HALIFAX (A TRADING NAME OF BANK OF SCOTLAND PLC)
+					</BankName>
+					<AddressLocationRecord>
+						<HouseName />
+						<StreetAddress />
+						<PostCode>LS1 9GG</PostCode>
+						<Locality>P O Box 722 ;</Locality>
+						<Town>Leeds</Town>
+					</AddressLocationRecord>
+				</BankDetail>
+				<EmploymentDetail>
+					<WS_GMFApplicantEmployment_Data>
+						<EmploymentType>Homemaker</EmploymentType>
+						<EmploymentTypeCd>Current</EmploymentTypeCd>
+						<Occupation>Homemaker</Occupation>
+						<EmployerName />
+						<PhoneNumber>01268820485</PhoneNumber>
+						<EmploymentYears>1</EmploymentYears>
+						<EmploymentMonths>3</EmploymentMonths>
+						<AnnualIncome>17000.0</AnnualIncome>
+						<AddressLocation>
+							<HouseNumber>34</HouseNumber>
+							<HouseName />
+							<FlatNumber />
+							<StreetAddress>Raphaels</StreetAddress>
+							<PostCode>SS15 5EA</PostCode>
+							<Locality />
+							<Town>Basildon</Town>
+						</AddressLocation>
+					</WS_GMFApplicantEmployment_Data>
+					<WS_GMFApplicantEmployment_Data>
+						<EmploymentType>Employed</EmploymentType>
+						<EmploymentTypeCd>Previous</EmploymentTypeCd>
+						<Occupation>Clerical Worker</Occupation>
+						<EmployerName>Toomey Basildon</EmployerName>
+						<PhoneNumber>01268407550</PhoneNumber>
+						<EmploymentYears>3</EmploymentYears>
+						<EmploymentMonths>2</EmploymentMonths>
+						<AnnualIncome>22000.0</AnnualIncome>
+						<AddressLocation>
+							<HouseNumber />
+							<HouseName>Toomey Motor Group Service House</HouseName>
+							<FlatNumber />
+							<StreetAddress>West Mayne</StreetAddress>
+							<PostCode>SS15 6RW</PostCode>
+							<Locality />
+							<Town>Basildon</Town>
+						</AddressLocation>
+					</WS_GMFApplicantEmployment_Data>
+				</EmploymentDetail>
+				<Title>Mrs</Title>
+				<FirstName>Sylvia</FirstName>
+				<Initial />
+				<Surname>WRIGHT</Surname>
+				<DOB>1959-07-29</DOB>
+				<MaritalStatus>Divorced / Dissolved</MaritalStatus>
+				<NoOfDependents>0</NoOfDependents>
+				<EmailAddress />
+				<PrimaryContact>No</PrimaryContact>
+				<PartySubType>Individual</PartySubType>
+				<PhoneDetails>
+					<WS_GMFPhone_Data>
+						<PhoneType>Home</PhoneType>
+						<PhoneNumber>01268820485</PhoneNumber>
+					</WS_GMFPhone_Data>
+					<WS_GMFPhone_Data>
+						<PhoneType>Mobile</PhoneType>
+						<PhoneNumber>0744345180</PhoneNumber>
+					</WS_GMFPhone_Data>
+				</PhoneDetails>
+			</WORCWS_GMFApplicant_DataRecord>
+		</Applicants>
+		<Vehicle>
+			<Type>Used</Type>
+			<Category>Car</Category>
+			<Make>CITROEN</Make>
+			<Model>C1 HATCHBACK</Model>
+			<Variant>1.2 PureTech Feel 5dr (2015 - )</Variant>
+			<VehicleId>68987</VehicleId>
+			<RegistrationNumber>EF65AUL</RegistrationNumber>
+			<VIN>VF7PAHMTCFR768438</VIN>
+			<FirstRegistrationDate>2015-12-15</FirstRegistrationDate>
+			<VATQualifying>No</VATQualifying>
+			<Mileage>2353</Mileage>
+			<RegistrationPlate>2015 65</RegistrationPlate>
+			<VehicleValuationSystem>5350.000</VehicleValuationSystem>
+			<VehicleUsage>Private</VehicleUsage>
+			<FFO>0</FFO>
+			<FreeFormatEntry>N</FreeFormatEntry>
+			<VehicleYear>2015</VehicleYear>
+			<EndOfContractMileage>2353</EndOfContractMileage>
+		</Vehicle>
+		<VehicleFinance>
+			<VehicleCashSellingPrice>6600.0</VehicleCashSellingPrice>
+			<VAPS>0.0</VAPS>
+			<CashDeposit>2000.0</CashDeposit>
+			<FDA>0.0</FDA>
+			<TotalAmountFinanced>4600.0</TotalAmountFinanced>
+			<Term>36</Term>
+			<FlatRate>4.9988</FlatRate>
+			<APR>13.9673</APR>
+			<Frequency>Monthly</Frequency>
+			<TotalDeposit>2000.0</TotalDeposit>
+			<FinanceType>CSHP</FinanceType>
+			<TotalAmountPayable>7587.84</TotalAmountPayable>
+			<Interest>689.84</Interest>
+			<Payment>146.94</Payment>
+			<CostIncVAT>0</CostIncVAT>
+		</VehicleFinance>
+		<ApplicationType>Private Individual</ApplicationType>
+		<DFESubmissionDateTime>2017-07-12T11:19:22.930Z
+		</DFESubmissionDateTime>
+		<AgreementType>Regulated</AgreementType>
+	</Input_ApplicationData>
+</ProcessApplication>
